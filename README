@@ -1,0 +1,9 @@
+python 2.6 
+socket模块修改
+练习作
+
+1. 修改import _ssl方式
+2. 修改getfqdn可读性
+3. 修改_socketobject部分函数可读性
+4. 修改create_connection函数可读性
+
